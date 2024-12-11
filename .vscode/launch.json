@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "LLDB Debug",
+            "type": "lldb-dap",
+            "request": "launch",
+            "program": "${workspaceRoot}/build/src/DockerCpp",
+            "args": [],
+            "env": [],
+            "cwd": "${fileDirname}",
+        }
+    ]
+}

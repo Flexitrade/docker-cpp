@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "asio-grpc",
+    "drogon",
+    "easyloggingpp",
+    "gtest",
+    "libpqxx",
+    "cppzmq"
+  ]
+}
